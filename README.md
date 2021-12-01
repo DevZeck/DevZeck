@@ -1,16 +1,19 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**DevZeck/DevZeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4>Hello! 👋 I am Raj Chatterjee aka DevZeck</h4>
+<p><em>Full Stack Developer</em></p>
 
-Here are some ideas to get you started:
+[![Join Discord](https://img.shields.io/twitter/follow/adityatripathid?label=Follow)](https://discord.gg/dnQjVWhdQT)
+[![GitHub followers](https://img.shields.io/github/followers/DevZeck?label=Follow&style=social)](https://github.com/DevZeck)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+🔭 Currently Working on [Moosic](https://top.gg/bot/785573325396639744)
+
+📫 Let's get social on [Discord](https://discord.gg/dnQjVWhdQT)
+
+----
+
+![Stats](https://github-readme-stats.vercel.app/api?username=DevZeck&count_private=true&show_icons=true&theme=dracula)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevZeck&layout=compact&count_private=true&theme=dracula)
+</div>
