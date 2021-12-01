@@ -3,7 +3,6 @@
 <h4>Hello! 👋 I am Raj Chatterjee aka DevZeck</h4>
 <p><em>Full Stack Developer</em></p>
 
-[![Join Discord](https://img.shields.io/twitter/follow/adityatripathid?label=Follow)](https://discord.gg/dnQjVWhdQT)
 [![GitHub followers](https://img.shields.io/github/followers/DevZeck?label=Follow&style=social)](https://github.com/DevZeck)
 
 ----
