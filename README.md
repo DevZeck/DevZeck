@@ -6,13 +6,11 @@
 [![GitHub followers](https://img.shields.io/github/followers/DevZeck?label=Follow&style=social)](https://github.com/DevZeck)
 
 ----
-🔭 Currently Working on [Moosic](https://top.gg/bot/785573325396639744)
-
-📫 Let's get social on [Discord](https://discord.gg/dnQjVWhdQT)
-
+  
+  🔭 Currently Working on [Moosic](https://github.com/moosicbot)
+  📫 Let's get social on [Discord](https://discord.gg/)
+  
 ----
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=DevZeck&count_private=true&show_icons=true&theme=dracula)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevZeck&layout=compact&count_private=true&theme=dracula)
 </div>
