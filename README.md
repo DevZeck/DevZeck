@@ -1,14 +1,14 @@
 <div align="center">
 
-<h4>Hello! 👋 I am Raj Chatterjee aka DevZeck</h4>
-<p><em>Full Stack Developer</em></p>
+<h4>Hello! 👋 I am Zeck</h4>
+<p><em>Backend Developer</em></p>
 
 [![GitHub followers](https://img.shields.io/github/followers/DevZeck?label=Follow&style=social)](https://github.com/DevZeck)
 
 ----
   
-  🔭 Currently Working on [Moosic](https://github.com/moosicbot)
-  📫 Let's get social on [Discord](https://discord.gg/)
+  🔭 Currently Working on [Moosic](https://moosicbot.org/) and [Gateway](https://gatewaybot.xyz/)
+  📫 Let's get social on [Discord](https://devzeck.xyz/discord)
   
 ----
 
